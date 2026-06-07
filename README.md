@@ -8,4 +8,14 @@ Cooklang is a simple plaintext format for recipes. Each `.cook` file is human-re
 
 ## Viewer
 
-Browse the recipes at [cooklang-webapp](https://github.com/6c756b/cooklang-webapp) or any other Viewer listed on the official page.
+The recipes are hosted via [GitHub Pages](https://6c756b.github.io/cooklang-recipes/) using a bundled build of [cooklang-webapp](https://github.com/6c756b/cooklang-webapp).
+
+## Update Process
+
+After adding, removing, moving, or editing recipes, rebuild the index:
+
+```bash
+node generate-index.mjs
+```
+
+Then commit and push - GitHub Pages will update automatically.
