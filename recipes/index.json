@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-07T11:32:03.386Z",
+  "generated": "2026-06-07T12:22:27.008Z",
   "recipes": [
     {
       "slug": "backen/bananenbrot",
@@ -10,10 +10,10 @@
       "tags": []
     },
     {
-      "slug": "aufläufe/cannelloni-mit-schinken-lauch-füllung",
+      "slug": "auflaeufe/cannelloni-mit-schinken-lauch-fuellung",
       "title": "Cannelloni mit Schinken-Lauch-Füllung",
-      "path": "Aufläufe/Cannelloni mit Schinken-Lauch-Füllung.cook",
-      "category": "Aufläufe",
+      "path": "Auflaeufe/Cannelloni mit Schinken-Lauch-Fuellung.cook",
+      "category": "Auflaeufe",
       "image": null,
       "tags": [
         "Mealprep"
@@ -30,10 +30,10 @@
       ]
     },
     {
-      "slug": "hähnchen/cremiges-hähnchen-mit-reis",
+      "slug": "haehnchen/cremiges-haehnchen-mit-reis",
       "title": "Cremiges Hähnchen mit Reis (kalorienarm)",
-      "path": "Hähnchen/Cremiges Hähnchen mit Reis.cook",
-      "category": "Hähnchen",
+      "path": "Haehnchen/Cremiges Haehnchen mit Reis.cook",
+      "category": "Haehnchen",
       "image": null,
       "tags": [
         "Mealprep"
@@ -79,19 +79,19 @@
       ]
     },
     {
-      "slug": "hähnchen/gyros-salat",
+      "slug": "haehnchen/gyros-salat",
       "title": "Gyros-Salat",
-      "path": "Hähnchen/Gyros-Salat.cook",
-      "category": "Hähnchen",
-      "image": "Hähnchen/Gyros-Salat.jpg",
+      "path": "Haehnchen/Gyros-Salat.cook",
+      "category": "Haehnchen",
+      "image": "Haehnchen/Gyros-Salat.jpg",
       "tags": [
         "Mealprep"
       ]
     },
     {
-      "slug": "hack/hackfleisch-gemüse-auflauf",
+      "slug": "hack/hackfleisch-gemuese-auflauf",
       "title": "Hackfleisch-Gemüse-Auflauf (Low Carb)",
-      "path": "Hack/Hackfleisch-Gemüse-Auflauf.cook",
+      "path": "Hack/Hackfleisch-Gemuese-Auflauf.cook",
       "category": "Hack",
       "image": null,
       "tags": [
@@ -100,19 +100,19 @@
       ]
     },
     {
-      "slug": "hähnchen/hähnchen-gemüse-bowl",
+      "slug": "haehnchen/haehnchen-gemuese-bowl",
       "title": "Hähnchen-Gemüse-Bowl mit Reis",
-      "path": "Hähnchen/Hähnchen-Gemüse-Bowl.cook",
-      "category": "Hähnchen",
+      "path": "Haehnchen/Haehnchen-Gemuese-Bowl.cook",
+      "category": "Haehnchen",
       "image": null,
       "tags": [
         "Mealprep"
       ]
     },
     {
-      "slug": "backen/kürbis-muffins",
+      "slug": "backen/kuerbis-muffins",
       "title": "Kalorienreduzierte Kürbis-Muffins",
-      "path": "Backen/Kürbis-Muffins.cook",
+      "path": "Backen/Kuerbis-Muffins.cook",
       "category": "Backen",
       "image": null,
       "tags": [
@@ -120,17 +120,17 @@
       ]
     },
     {
-      "slug": "backen/käse-mandarinen-kuchen",
+      "slug": "backen/kaese-mandarinen-kuchen",
       "title": "Käse-Mandarinen-Kuchen",
-      "path": "Backen/Käse-Mandarinen-Kuchen.cook",
+      "path": "Backen/Kaese-Mandarinen-Kuchen.cook",
       "category": "Backen",
       "image": null,
       "tags": []
     },
     {
-      "slug": "backen/käsekuchen",
+      "slug": "backen/kaesekuchen",
       "title": "Käsekuchen",
-      "path": "Backen/Käsekuchen.cook",
+      "path": "Backen/Kaesekuchen.cook",
       "category": "Backen",
       "image": null,
       "tags": [
@@ -148,10 +148,10 @@
       ]
     },
     {
-      "slug": "süßes/low-carb-raffaello",
+      "slug": "suesses/low-carb-raffaello",
       "title": "Low Carb Raffaello",
-      "path": "Süßes/Low Carb Raffaello.cook",
-      "category": "Süßes",
+      "path": "Suesses/Low Carb Raffaello.cook",
+      "category": "Suesses",
       "image": null,
       "tags": [
         "Low Carb"
@@ -168,17 +168,17 @@
       ]
     },
     {
-      "slug": "süßes/milchreis",
+      "slug": "suesses/milchreis",
       "title": "Milchreis Grundrezept",
-      "path": "Süßes/Milchreis.cook",
-      "category": "Süßes",
+      "path": "Suesses/Milchreis.cook",
+      "category": "Suesses",
       "image": null,
       "tags": []
     },
     {
-      "slug": "vegetarisch/ofengemüse",
+      "slug": "vegetarisch/ofengemuese",
       "title": "Ofengemüse",
-      "path": "Vegetarisch/Ofengemüse.cook",
+      "path": "Vegetarisch/Ofengemuese.cook",
       "category": "Vegetarisch",
       "image": null,
       "tags": [
@@ -187,23 +187,24 @@
       ]
     },
     {
-      "slug": "süßes/pfannkuchen",
+      "slug": "suesses/pfannkuchen",
       "title": "Pfannkuchen",
-      "path": "Süßes/Pfannkuchen.cook",
-      "category": "Süßes",
+      "path": "Suesses/Pfannkuchen.cook",
+      "category": "Suesses",
       "image": null,
       "tags": [
         "Schnell"
       ]
     },
     {
-      "slug": "süßes/reispudding",
-      "title": "Proteinreicher Reisflocken-Porridge mit Apfel & Himbeeren",
-      "path": "Süßes/Reispudding.cook",
-      "category": "Süßes",
+      "slug": "suesses/reispudding",
+      "title": "Reisflocken-Porridge mit Apfel & Himbeeren",
+      "path": "Suesses/Reispudding.cook",
+      "category": "Suesses",
       "image": null,
       "tags": [
-        "Schnell"
+        "Schnell",
+        "Proteinreich"
       ]
     },
     {
