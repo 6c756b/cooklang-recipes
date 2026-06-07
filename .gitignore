@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+.claude/
+CLAUDE.md
+export/
+_INPUT/
+misc/
