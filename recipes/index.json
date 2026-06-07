@@ -1,0 +1,199 @@
+{
+  "generated": "2026-06-07T11:13:44.990Z",
+  "recipes": [
+    {
+      "slug": "backen/bananenbrot",
+      "title": "Bananenbrot mit Walnüssen",
+      "path": "Backen/Bananenbrot.cook",
+      "category": "Backen",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "aufläufe/cannelloni-mit-schinken-lauch-füllung",
+      "title": "Cannelloni mit Schinken-Lauch-Füllung",
+      "path": "Aufläufe/Cannelloni mit Schinken-Lauch-Füllung.cook",
+      "category": "Aufläufe",
+      "image": null,
+      "tags": [
+        "WW"
+      ]
+    },
+    {
+      "slug": "hack/chilli-con-carne",
+      "title": "Chilli con Carne (kalorienarm)",
+      "path": "Hack/Chilli Con Carne.cook",
+      "category": "Hack",
+      "image": null,
+      "tags": [
+        "Mealprep"
+      ]
+    },
+    {
+      "slug": "hähnchen/cremiges-hähnchen-mit-reis",
+      "title": "Cremiges Hähnchen mit Reis (kalorienarm)",
+      "path": "Hähnchen/Cremiges Hähnchen mit Reis.cook",
+      "category": "Hähnchen",
+      "image": null,
+      "tags": [
+        "Mealprep"
+      ]
+    },
+    {
+      "slug": "hack/easy-peasy-pasta",
+      "title": "Easy Peasy Pasta",
+      "path": "Hack/Easy Peasy Pasta.cook",
+      "category": "Hack",
+      "image": "Hack/Easy Peasy Pasta.jpg",
+      "tags": []
+    },
+    {
+      "slug": "vegetarisch/falaffelburger",
+      "title": "Falaffelburger",
+      "path": "Vegetarisch/Falaffelburger.cook",
+      "category": "Vegetarisch",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "fisch/frische-thunfisch-wraps",
+      "title": "Frische Thunfisch-Wraps",
+      "path": "Fisch/Frische Thunfisch-Wraps.cook",
+      "category": "Fisch",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "hack/gnocchi-cheesburger-style",
+      "title": "Gnocchi-Hackpfanne mit Spitzkohl",
+      "path": "Hack/Gnocchi Cheesburger Style.cook",
+      "category": "Hack",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "hähnchen/gyros-salat",
+      "title": "Gyros-Salat",
+      "path": "Hähnchen/Gyros-Salat.cook",
+      "category": "Hähnchen",
+      "image": "Hähnchen/Gyros-Salat.jpg",
+      "tags": []
+    },
+    {
+      "slug": "hack/hackfleisch-gemüse-auflauf",
+      "title": "Hackfleisch-Gemüse-Auflauf (Low Carb)",
+      "path": "Hack/Hackfleisch-Gemüse-Auflauf.cook",
+      "category": "Hack",
+      "image": null,
+      "tags": [
+        "Mealprep"
+      ]
+    },
+    {
+      "slug": "hähnchen/hähnchen-gemüse-bowl",
+      "title": "Hähnchen-Gemüse-Bowl mit Reis",
+      "path": "Hähnchen/Hähnchen-Gemüse-Bowl.cook",
+      "category": "Hähnchen",
+      "image": null,
+      "tags": [
+        "Mealprep"
+      ]
+    },
+    {
+      "slug": "backen/kürbis-muffins",
+      "title": "Kalorienreduzierte Kürbis-Muffins",
+      "path": "Backen/Kürbis-Muffins.cook",
+      "category": "Backen",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "backen/käse-mandarinen-kuchen",
+      "title": "Käse-Mandarinen-Kuchen",
+      "path": "Backen/Käse-Mandarinen-Kuchen.cook",
+      "category": "Backen",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "backen/käsekuchen",
+      "title": "Käsekuchen",
+      "path": "Backen/Käsekuchen.cook",
+      "category": "Backen",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "fisch/lachs-spinat-lasagne",
+      "title": "Lachs-Spinat-Lasagne",
+      "path": "Fisch/Lachs-Spinat-Lasagne.cook",
+      "category": "Fisch",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "süßes/low-carb-raffaello",
+      "title": "Low Carb Raffaello",
+      "path": "Süßes/Low Carb Raffaello.cook",
+      "category": "Süßes",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "fisch/mickys-lachsnudeln",
+      "title": "Mickys Lachsnudeln",
+      "path": "Fisch/Mickys Lachsnudeln.cook",
+      "category": "Fisch",
+      "image": "Fisch/Mickys Lachsnudeln.jpg",
+      "tags": []
+    },
+    {
+      "slug": "süßes/milchreis",
+      "title": "Milchreis Grundrezept",
+      "path": "Süßes/Milchreis.cook",
+      "category": "Süßes",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "vegetarisch/ofengemüse",
+      "title": "Ofengemüse",
+      "path": "Vegetarisch/Ofengemüse.cook",
+      "category": "Vegetarisch",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "süßes/pfannkuchen",
+      "title": "Pfannkuchen",
+      "path": "Süßes/Pfannkuchen.cook",
+      "category": "Süßes",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "süßes/reispudding",
+      "title": "Proteinreicher Reisflocken-Porridge mit Apfel & Himbeeren",
+      "path": "Süßes/Reispudding.cook",
+      "category": "Süßes",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "backen/rotweinkuchen",
+      "title": "Rotweinkuchen",
+      "path": "Backen/Rotweinkuchen.cook",
+      "category": "Backen",
+      "image": null,
+      "tags": []
+    },
+    {
+      "slug": "backen/waffelteig-(timon)",
+      "title": "Waffelteig á la Caspari",
+      "path": "Backen/Waffelteig (Timon).cook",
+      "category": "Backen",
+      "image": null,
+      "tags": []
+    }
+  ]
+}
