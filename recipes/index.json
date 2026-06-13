@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-07T12:22:27.008Z",
+  "generated": "2026-06-13T10:43:59.982Z",
   "recipes": [
     {
       "slug": "backen/bananenbrot",
@@ -79,6 +79,18 @@
       ]
     },
     {
+      "slug": "suesses/griessbrei",
+      "title": "Grießbrei",
+      "path": "Suesses/Griessbrei.cook",
+      "category": "Suesses",
+      "image": "Suesses/Griessbrei.jpg",
+      "tags": [
+        "Schnell",
+        "Einfach",
+        "Süßspeise"
+      ]
+    },
+    {
       "slug": "haehnchen/gyros-salat",
       "title": "Gyros-Salat",
       "path": "Haehnchen/Gyros-Salat.cook",
@@ -107,6 +119,17 @@
       "image": null,
       "tags": [
         "Mealprep"
+      ]
+    },
+    {
+      "slug": "haehnchen/haehnchengulasch",
+      "title": "Hähnchengulasch",
+      "path": "Haehnchen/Haehnchengulasch.cook",
+      "category": "Haehnchen",
+      "image": "Haehnchen/Haehnchengulasch.jpg",
+      "tags": [
+        "Pasta",
+        "Geflügel"
       ]
     },
     {
