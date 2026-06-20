@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-13T10:43:59.982Z",
+  "generated": "2026-06-20T12:39:58.243Z",
   "recipes": [
     {
       "slug": "backen/bananenbrot",
@@ -133,6 +133,32 @@
       ]
     },
     {
+      "slug": "testen/high-protein-chili-con-carne",
+      "title": "High Protein Chili con Carne",
+      "path": "TESTEN/High-Protein-Chili-con-Carne.cook",
+      "category": "TESTEN",
+      "image": null,
+      "tags": [
+        "Hack",
+        "Protein",
+        "Chili",
+        "Eintopf",
+        "Airfryer"
+      ]
+    },
+    {
+      "slug": "testen/kalorienarme-pizza-torte",
+      "title": "Kalorienarme Pizza Torte",
+      "path": "TESTEN/Kalorienarme-Pizza-Torte.cook",
+      "category": "TESTEN",
+      "image": null,
+      "tags": [
+        "Pizza",
+        "Kalorienarm",
+        "Protein"
+      ]
+    },
+    {
       "slug": "backen/kuerbis-muffins",
       "title": "Kalorienreduzierte Kürbis-Muffins",
       "path": "Backen/Kuerbis-Muffins.cook",
@@ -152,7 +178,7 @@
     },
     {
       "slug": "backen/kaesekuchen",
-      "title": "Käsekuchen",
+      "title": "Käsekuchen ohne Boden",
       "path": "Backen/Kaesekuchen.cook",
       "category": "Backen",
       "image": null,
@@ -199,6 +225,18 @@
       "tags": []
     },
     {
+      "slug": "testen/nudelauflauf-mit-wiener",
+      "title": "Nudelauflauf mit Wiener",
+      "path": "TESTEN/Nudelauflauf-mit-Wiener.cook",
+      "category": "TESTEN",
+      "image": null,
+      "tags": [
+        "Auflauf",
+        "Pasta",
+        "Schnell"
+      ]
+    },
+    {
       "slug": "vegetarisch/ofengemuese",
       "title": "Ofengemüse",
       "path": "Vegetarisch/Ofengemuese.cook",
@@ -210,6 +248,18 @@
       ]
     },
     {
+      "slug": "testen/overnight-oats",
+      "title": "Overnight Oats",
+      "path": "TESTEN/Overnight-Oats.cook",
+      "category": "TESTEN",
+      "image": null,
+      "tags": [
+        "Frühstück",
+        "Schnell",
+        "Mealprep"
+      ]
+    },
+    {
       "slug": "suesses/pfannkuchen",
       "title": "Pfannkuchen",
       "path": "Suesses/Pfannkuchen.cook",
@@ -217,6 +267,17 @@
       "image": null,
       "tags": [
         "Schnell"
+      ]
+    },
+    {
+      "slug": "testen/protein-kartoffelsalat",
+      "title": "Protein-Kartoffelsalat",
+      "path": "TESTEN/Protein-Kartoffelsalat.cook",
+      "category": "TESTEN",
+      "image": null,
+      "tags": [
+        "Salat",
+        "Protein"
       ]
     },
     {
@@ -237,6 +298,44 @@
       "category": "Backen",
       "image": null,
       "tags": []
+    },
+    {
+      "slug": "testen/mexican-rice-onepot",
+      "title": "Schneller High Protein Mexican Rice Onepot",
+      "path": "TESTEN/Mexican-Rice-Onepot.cook",
+      "category": "TESTEN",
+      "image": null,
+      "tags": [
+        "Onepot",
+        "Protein",
+        "Hähnchen",
+        "Reis",
+        "Mexikanisch"
+      ]
+    },
+    {
+      "slug": "testen/sloppy-joe-potatoes",
+      "title": "Sloppy Joe Potatoes",
+      "path": "TESTEN/Sloppy-Joe-Potatoes.cook",
+      "category": "TESTEN",
+      "image": null,
+      "tags": [
+        "Hack",
+        "Kartoffeln",
+        "Airfryer"
+      ]
+    },
+    {
+      "slug": "testen/spaetzle-haehnchen-auflauf",
+      "title": "Spätzle Hähnchen Auflauf",
+      "path": "TESTEN/Spaetzle-Haehnchen-Auflauf.cook",
+      "category": "TESTEN",
+      "image": null,
+      "tags": [
+        "Auflauf",
+        "Hähnchen",
+        "Pasta"
+      ]
     },
     {
       "slug": "backen/waffelteig-(timon)",
